@@ -17,6 +17,6 @@ I'm a Computer Vision Engineer at Hammoq 👨‍💻 who loves to explore anythi
 
 
 ### Some stats 📊
-| Most used Languages 💻 | Total coding time ⏲️ |
-| ------------- | ------------- |
+| Most used Languages 💻 |
+| ------------- |
 | [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmaniron&layout=compact">](https://github.com/laxmaniron)| 
