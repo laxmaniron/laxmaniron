@@ -2,7 +2,7 @@
 I'm a Computer Vision Engineer at Hammoq 👨‍💻 who loves to explore anything that interests me. I love to know why and how things work under the hood, this encourages and excites me to dig deep into certain topics. Learning something new gives me a thrill and this has always been my driving force. 
 
 ### What can I do ❓
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Chandu-4444&theme=radical&show_icons=true">](https://github.com/Chandu-4444)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=laxmaniron&theme=radical&show_icons=true">](https://github.com/laxmaniron)
 - I can code in C++, Python, Javascript, Django, React, Node, MATLAB.
 - I'm a competetive coder too.
 - I'm an ML guy. I don't just want to code off a snippet, I want to know what's the crux of those lines of code. This made me learn a bit of maths (Which I sadly neglected during my first year :man_facepalming:)
@@ -19,4 +19,4 @@ I'm a Computer Vision Engineer at Hammoq 👨‍💻 who loves to explore anythi
 ### Some stats 📊
 | Most used Languages 💻 | Total coding time ⏲️ |
 | ------------- | ------------- |
-| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmaniron4&layout=compact">](https://github.com/Chandu-4444)| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmaniron">](https://github.com/Chandu-4444)
+| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmaniron4&layout=compact">](https://github.com/laxmaniron)| [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmaniron">](https://github.com/laxmaniron)
