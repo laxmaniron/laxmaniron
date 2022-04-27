@@ -23,7 +23,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 ![Laxman's github stats](https://github-readme-stats.vercel.app/api?username=laxmaniron&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmaniron&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/laxmaniron/github-readme-stats)
-| ------------- | ------------- |
 
 #### Top Repositories
 
@@ -37,10 +36,3 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
