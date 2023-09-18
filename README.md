@@ -1,6 +1,6 @@
 # 🌴 Hey there, I'm Laxman 🤝
 
-Dedicated Machine Learning Engineer proficient in Python and PyTorch, with a proven track record of architecting and optimizing scalable deep learning training frameworks in distributed environments. Experienced in working with large codebases, I am adept at collaborating with interdisciplinary teams to drive cutting-edge ML solutions. My passion lies in harnessing technology to design innovative solutions that transform user experiences.
+A Dedicated Machine Learning Engineer proficient in Python and PyTorch, with a proven track record of architecting and optimizing scalable deep learning training frameworks in distributed environments. Experienced in working with large codebases, I am adept at collaborating with interdisciplinary teams to drive cutting-edge ML solutions. My passion lies in harnessing technology to design innovative solutions that transform user experiences.
 
 Always enthusiastic about the open-source community, I am on the lookout to contribute to collaborative machine learning projects. So, if you're keen on harnessing my expertise or envision a collaborative endeavor, please feel free to reach out. Let's create, innovate, and elevate together!
 
