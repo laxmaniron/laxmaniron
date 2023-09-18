@@ -1,13 +1,8 @@
 # 🌴 Hey there, I'm Laxman 🤝
-I'm a Computer Vision Engineer at Hammoq 👨‍💻 who loves to explore anything that interests me. I love to know why and how things work under the hood, this encourages and excites me to dig deep into certain topics. Learning something new gives me a thrill and this has always been my driving force. 
 
-### What can I do ❓
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=laxmaniron&theme=radical&show_icons=true">](https://github.com/laxmaniron)
-- I can code in C++, Python, Javascript, Django, React, Node, MATLAB.
-- I'm a competetive coder too.
-- I'm an ML guy. I don't just want to code off a snippet, I want to know what's the crux of those lines of code. This made me learn a bit of maths.
-- Now, I'm working in Deep Learning area for the past 3 years and I am very passionate and eager to contribute to deep learning community.
-- I'm also an open source contributor. I believe open source is something we should be thankful where people work day and night without expecting profit. I'd love to be a part of this system and do my best to help my favourite projects.
+Dedicated Machine Learning Engineer proficient in Python and PyTorch, with a proven track record of architecting and optimizing scalable deep learning training frameworks in distributed environments. Experienced in working with large codebases, I am adept at collaborating with interdisciplinary teams to drive cutting-edge ML solutions. My passion lies in harnessing technology to design innovative solutions that transform user experiences.
+
+Always enthusiastic about the open-source community, I am on the lookout to contribute to collaborative machine learning projects. So, if you're keen on harnessing my expertise or envision a collaborative endeavor, please feel free to reach out. Let's create, innovate, and elevate together!
 
 <hr>
 
