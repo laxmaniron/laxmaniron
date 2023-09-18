@@ -5,7 +5,7 @@ I'm a Computer Vision Engineer at Hammoq 👨‍💻 who loves to explore anythi
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=laxmaniron&theme=radical&show_icons=true">](https://github.com/laxmaniron)
 - I can code in C++, Python, Javascript, Django, React, Node, MATLAB.
 - I'm a competetive coder too.
-- I'm an ML guy. I don't just want to code off a snippet, I want to know what's the crux of those lines of code. This made me learn a bit of maths (Which I sadly neglected during my first year :man_facepalming:)
+- I'm an ML guy. I don't just want to code off a snippet, I want to know what's the crux of those lines of code. This made me learn a bit of maths.
 - Now, I'm working in Deep Learning area for the past 3 years and I am very passionate and eager to contribute to deep learning community.
 - I'm also an open source contributor. I believe open source is something we should be thankful where people work day and night without expecting profit. I'd love to be a part of this system and do my best to help my favourite projects.
 
